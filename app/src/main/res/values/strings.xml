@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MathematicsOperationDemo</string>
+    <string name="number1_txt">Enter Number1</string>
+    <string name="number2_txt">Enter Number2</string>
+    <string name="adding_btn_txt">Adding</string>
+    <string name="substract_btn_txt">Substract</string>
+</resources>
